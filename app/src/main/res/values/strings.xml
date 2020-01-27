@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="buttonsubmit">подтвердить</string>
+    <string name="wish">Пожелание</string>
+    <string name="name">Мое имя</string>
+    <string name="input_name">Enter your name</string>
+    <string name="input_wishes">Enter your wishes</string>
+</resources>
